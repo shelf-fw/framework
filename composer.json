@@ -1,0 +1,19 @@
+{
+  "name": "shelf/framework",
+  "type": "shelf-module",
+  "require": {
+  },
+  "authors": [
+    {
+      "name": "Rafael Ortega Bueno",
+      "email": "rorteg@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Shelf\\Framework\\" : ""
+    }
+  },
+  "require-dev": {
+  }
+}
